@@ -1,0 +1,24 @@
+
+.odd
+{
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#unique1
+{
+    color: blue;
+    font-size: 36px;
+}
+
+.odd.cool
+{
+    font-size: 24px;
+}
+
+#unique2
+{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
